@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=https://raforocks.github.io/mayanseo3/mystaticsite/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "https://raforocks.github.io/mayanseo3/mystaticsite/feed/";
+		</script>
+
+		<p>You are being redirected to <a href="https://raforocks.github.io/mayanseo3/mystaticsite/feed/">https://raforocks.github.io/mayanseo3/mystaticsite/feed/</a></p>
+	</body>
+</html>
